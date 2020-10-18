@@ -1,0 +1,63 @@
+---
+---
+
+// start content
+
+@import 'shared';
+@import 'homepage';
+
+@font-face {
+    font-family: 'RSS DejaVu Mono';
+    src: url('fonts/RSSDejaVuSansMonoBootleg-Book.woff2') format('woff2'),
+         url('fonts/RSSDejaVuSansMonoBootleg-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html{
+  font-size: 18px;
+}
+
+body{
+  font-family: 'RSS DejaVu Mono', sans-serif;
+  font-weight: 400;
+  background-color: $body_background;
+  margin: 1rem;
+}
+
+h1,
+h2,
+p,
+div,
+a{
+  margin: 0;
+  font-size: 1rem;
+}
+
+aside{
+  white-space: pre-line;
+  position: fixed;
+  bottom: $margin;
+  left: $margin;
+  padding: 0 $margin;
+  width: 30%;
+  overflow: auto;
+  height: $aside_height; 
+  box-sizing: border-box;
+  background: $info_background; 
+  font-size: $smallest_text;
+  text-indent: $margin;
+  box-shadow: inset 0px 2px 5px rgba(0,0,0,0.5);
+}
+
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  background: linear-gradient(to right, $text_gray, #fff, $text_gray);
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #666;
+  box-shadow: none;
+}

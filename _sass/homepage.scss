@@ -1,0 +1,115 @@
+@import 'shared';
+
+header:before{
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: $margin;
+	background-color: $body_background;
+}
+header:after{
+	content: '';
+	position: fixed;
+	top: 4rem;
+	left: 0;
+	width: 100%;
+	height: $margin;
+	background-color: $body_background;
+}
+
+header{
+	position: fixed;
+	top: $margin;
+	left: $margin;
+	right: $margin;
+	display: flex;
+	justify-content: space-around;
+	background-color: $section_background;
+	color: $section_text_color;
+	height: 3rem;
+	align-items: center;
+}
+
+header h1{
+	font-size: $title_text;
+	text-transform: uppercase;
+}
+
+#posts{
+  background: $section_background;
+  color: $section_text_color;
+  margin-top: $margin * 5;
+  overflow: auto;
+  border-radius: $margin;
+  width: calc(70% - #{$margin * 2});
+  margin-left: calc(30% + #{$margin * 2});
+}
+
+.post{
+	box-sizing: border-box;	
+	display: flex;
+	flex-wrap: wrap;
+	padding: $margin;
+}
+
+.index_section{
+	padding: $margin;
+	box-sizing: border-box;
+	border-bottom: $stroke_width dotted;
+}
+
+.name,
+.email{
+	border-top: $stroke_width dotted;
+	border-right: $stroke_width dotted;
+	width: 50%;
+}
+
+.name{
+	border-left: $stroke_width dotted;
+}
+
+.email{
+	text-align: center;
+	border-top-right-radius: $margin;
+	font-size: $smallest_text;
+}
+
+.post_title{
+	width: calc(33.33% - #{$margin});
+	margin-right: $margin;
+	background-color: $link_background;
+	color: $link_text;
+	text-align: center;
+	text-decoration: none;
+	font-size: $smallest_text;
+	padding: $margin;
+	box-sizing: border-box;
+	align-self: center;
+	border-radius: $margin;
+}
+
+.post_title:after{
+	content: '↗';
+}
+
+.about_author,
+.how_we_met{
+	width: 33.33%;
+	height: 5rem;
+	overflow: auto;
+	font-size: $smallest_text;
+}
+
+.about_author{
+	border-left: $stroke_width dotted;
+	border-bottom-left-radius: $margin;
+}
+
+.how_we_met{
+	background-color: $info_background;
+  	color: $text_gray;
+  	box-shadow: inset 0px 2px 5px rgba(0,0,0,0.5);
+}

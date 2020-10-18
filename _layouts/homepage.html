@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body>
+    <header>
+      <h1>{{ page.title }}</h1>
+      <div>{{ page.subheading }}</div>
+    </header>
+    <aside>
+      {{ page.aside | textilize }}
+    </aside>
+    <main>
+      <section id="posts">
+        {% for post in site.posts %}
+          <div class="post">
+            <h1 class="name index_section">{{post.author}}</h1>
+            <span class="email index_section">{{post.email}}</span>
+            <a class="post_title" href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+            <div class="about_author index_section">{{post.about_author}}</div>
+            <div class="how_we_met index_section">{{post.how_we_met}}</div>
+          </div>
+        {% endfor %}
+      </section>
+    </main>
+  </body>
+</html>
