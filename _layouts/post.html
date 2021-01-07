@@ -7,14 +7,16 @@
     <link rel="stylesheet" href="/css/main.css">
   </head>
   <body id="post_page">
-    <header>
+    <header class="movable">
       <h1>{{ page.title }}</h1>
-      <span id="page_subheading">{{ page.author }}</span>
+      <a id="home_link" href="/index.html">Home</a><span id="page_subheading">{{ page.author }}</span>
     </header>
-    <main>
+    <main class="movable">
       <section id="content">
         {{content}}
       </section>
     </main>
+    <img id='philly' src="/images/pa.svg">
+    <script type="text/javascript" src="/js/main.js"></script>
   </body>
 </html>

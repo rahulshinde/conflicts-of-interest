@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/css/main.css">
   </head>
   <body id='homepage'>
-    <header>
+    <header class='movable'>
       <h1>{{ page.title }}</h1>
       <div id="header_sub_info">
         <span id="page_subheading">{{ page.subheading }}</span>
@@ -30,10 +30,10 @@
         <source src="/images/sample-mp4-file.mp4" type="video/mp4">
       </video>
     </header>
-    <aside>
+    <aside class='movable'>
       {{ page.aside | textilize }}
     </aside>
-    <main>
+    <main class='movable'>
       <section id="posts">
         {% for post in site.posts %}
           <div class="post">
@@ -48,6 +48,7 @@
         {% endfor %}
       </section>
     </main>
+    <img id='philly' src="/images/pa.svg">
     <script type="text/javascript" src="/js/main.js"></script>
   </body>
 </html>
