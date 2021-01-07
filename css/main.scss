@@ -15,7 +15,7 @@
 }
 
 html{
-  font-size: 18px;
+  font-size: 1.25vw;
 }
 
 body{
@@ -23,6 +23,11 @@ body{
   font-weight: 400;
   background-color: $body_background;
   margin: 1rem;
+  font-smooth: never;
+  -webkit-font-smoothing : none;
+  background-image: url('/images/noise.svg');
+  background-attachment: fixed;
+  background-size: $background_image_size;
 }
 
 h1,
@@ -48,6 +53,8 @@ aside{
   font-size: $smallest_text;
   text-indent: $margin;
   box-shadow: inset 0px 2px 5px rgba(0,0,0,0.5);
+  background-image: url('/images/texture.svg');
+  background-size: 8rem;
 }
 
 ::-webkit-scrollbar {

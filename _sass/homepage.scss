@@ -1,50 +1,169 @@
 @import 'shared';
 
-header:before{
+#homepage header:before{
 	content: '';
 	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: $margin;
+	top: 1rem;
+	right: 0;
+	width: calc(50% - #{$margin/2});
+	height: 6.25rem;
 	background-color: $body_background;
+	border-top-left-radius: $margin;
+	border-bottom-left-radius: $margin;
+	z-index: 1;
+	background-image: url('/images/noise.svg');
+	background-size: $background_image_size;
 }
-header:after{
+#homepage header:after{
 	content: '';
 	position: fixed;
-	top: 4rem;
+	top: 0rem;
 	left: 0;
-	width: 100%;
-	height: $margin;
+	width: calc(50% - #{$margin/2});
+	height: 19.5vw;
+	border-top-right-radius: $margin;
+	border-bottom-right-radius: $margin;
 	background-color: $body_background;
+	background-image: url('/images/noise.svg');
+	background-size: $background_image_size;
 }
 
-header{
+#homepage header{
 	position: fixed;
 	top: $margin;
 	left: $margin;
 	right: $margin;
+	flex-wrap: nowrap;
+}
+
+header{
 	display: flex;
-	justify-content: space-around;
-	background-color: $section_background;
+	justify-content: space-between;
+	flex-wrap: wrap;
 	color: $section_text_color;
-	height: 3rem;
-	align-items: center;
+	align-items: flex-start;
 }
 
 header h1{
+	width: calc(50% - #{$margin * 1.5});
+	padding: $margin;
+	padding-bottom: $margin * 0.5;
+	box-sizing: border-box;
 	font-size: $title_text;
-	text-transform: uppercase;
+	background-color: $section_background;
+	border-radius: $margin;
+	text-align: center;
+	z-index: 10;
+	text-shadow: $text_shadow;
+}
+
+#post_page header h1{
+	width: 100%;
+}
+
+#post_page #page_subheading{
+	text-align: center;
+	margin-top: $margin;
+	margin-bottom: $margin * 2;
+	font-size: 3rem;
+}
+
+#header_sub_info{
+	margin-top: $margin;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	width: calc(50% - #{$margin * 1.5});
+	text-align: center;
+	z-index: 10;
+}
+
+#post_page #header_sub_info{
+	text-align: center;
+}
+
+#page_subheading{
+	width: 100%;
+	padding: $margin * 1.5 $margin;
+	box-sizing: border-box;
+	background-color: $section_background;
+	border-radius: $margin;
+	text-shadow: $text_shadow;
+}
+
+#wilmer{
+	position: fixed;
+  	width: calc(30% - #{$margin});
+  	height: calc(100vh - #{$aside_height} - 20rem);
+  	bottom: calc(#{$aside_height} + #{$margin * 3});
+  	background-color: #000;
+  	padding: $margin;
+  	border-radius: 50%;
+  	box-sizing: border-box;
+}
+
+#audio{
+	margin-top: $margin * 2;
+	padding: $margin;
+	border-radius: $margin;
+	width: 100%;
+	background-color: $body_background;
+	background-image: url('/images/noise.svg');
+	background-size: $background_image_size;
+	display: flex;
+	align-items: stretch;
+}
+
+#audio_info{
+	padding: $margin;
+	border-radius: $margin;
+	background-color: $section_background;
+	text-shadow: $text_shadow;
+	font-size: 1.5rem;
+}
+
+.play_button{
+	background-color: $section_background;
+	border-radius: 50%;
+	box-sizing: border-box;
+	padding: 1.4rem;
+	width: 5rem;
+	outline: 0;
+	border: 0;
+	margin: 0 0.5rem;
 }
 
 #posts{
   background: $section_background;
   color: $section_text_color;
-  margin-top: $margin * 5;
+  margin-top: $margin * 17.5;
   overflow: auto;
   border-radius: $margin;
   width: calc(70% - #{$margin * 2});
   margin-left: calc(30% + #{$margin * 2});
+}
+
+#post_page #content{
+	margin-top: $margin;
+	background: transparent;
+	padding: 0;
+}
+
+#content{
+	background: $section_background;
+	color: $section_text_color;
+	padding: $margin * 4;
+	margin-top: $margin * 17.5;
+	overflow: auto;
+	border-radius: $margin;
+	p{
+		font-size: 3rem;
+		margin-bottom: $margin * 2;
+		border-radius: $margin;
+		padding: $margin * 4;
+		background: $section_background;
+		text-shadow: $text_shadow;
+	}
 }
 
 .post{
@@ -69,6 +188,8 @@ header h1{
 
 .name{
 	border-left: $stroke_width dotted;
+	text-shadow: $text_shadow;
+	font-weight: 400;
 }
 
 .email{
@@ -89,6 +210,7 @@ header h1{
 	box-sizing: border-box;
 	align-self: center;
 	border-radius: $margin;
+	background: linear-gradient(#f9bbdc, $link_background, #c66095);
 }
 
 .post_title:after{
@@ -112,4 +234,10 @@ header h1{
 	background-color: $info_background;
   	color: $text_gray;
   	box-shadow: inset 0px 2px 5px rgba(0,0,0,0.5);
+}
+
+body#post{
+	header{
+		
+	}
 }

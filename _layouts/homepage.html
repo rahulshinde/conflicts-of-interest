@@ -6,10 +6,29 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/main.css">
   </head>
-  <body>
+  <body id='homepage'>
     <header>
       <h1>{{ page.title }}</h1>
-      <div>{{ page.subheading }}</div>
+      <div id="header_sub_info">
+        <span id="page_subheading">{{ page.subheading }}</span>
+        <div id='audio'>
+          <button id="play" class="play_button">
+            <img src="/images/play.svg">
+          </button>
+          <button id="pause" class="play_button">
+            <img  src="/images/pause.svg">
+          </button>
+          <div id="audio_info">
+            ella_heron-parte_parcell.mp3
+          </div>
+          <audio id='audio_player'>
+            <source src="/music/ella_heron-parte_parcell.mp3" type="audio/mpeg">
+          </audio>
+        </div>
+      </div>
+      <video id='wilmer' autoplay loop muted playsinline>
+        <source src="/images/sample-mp4-file.mp4" type="video/mp4">
+      </video>
     </header>
     <aside>
       {{ page.aside | textilize }}
@@ -29,5 +48,6 @@
         {% endfor %}
       </section>
     </main>
+    <script type="text/javascript" src="/js/main.js"></script>
   </body>
 </html>
