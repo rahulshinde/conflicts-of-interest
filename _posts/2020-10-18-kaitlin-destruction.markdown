@@ -7,7 +7,7 @@ date:   2020-10-18 11:21:04 -0400
 
 about_author: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-how_we_met: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+how_we_met: The last time I hung out with Kaitlin, we shared mango licorice outside her house, which is down the street from mine in Germantown. Her dog Maybe was there, and we were both stressed but I felt a definitive lift being around her.
 
 email: gee@email.com
 

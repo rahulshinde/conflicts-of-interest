@@ -7,7 +7,7 @@ date:   2020-10-18 11:21:04 -0400
 
 about_author: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-how_we_met: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+how_we_met: I heard Bailey’s name for years before the two of us actually met, through Rahul. Over the summer I learned what a good cook Bailey is when I went over to Bailey and Rahul’s house for a few dinners, one with memorable biscuits and gravy. There were a few good weeks in there when we all watched Drag Race together. Bailey’s a Drag Race aficionado.
 
 email: baileyasheehan@protonmail.com
 
