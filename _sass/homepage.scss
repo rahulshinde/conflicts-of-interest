@@ -2,14 +2,19 @@
 
 @media (hover: hover){
 	.play_button:hover,
-	.post_title:hover{
+	.post_title:hover,
+	#home_link:hover{
 		background: #ff0;
 		box-shadow: $shadow;
+	}
+	#content a:hover{
+		color: #ff0;
 	}
 }
 
 .play_button:active,
-.post_title:active{
+.post_title:active,
+#home_link:active{
 	background: #ff0;
 	box-shadow: inset $shadow;
 }
@@ -86,6 +91,7 @@ header{
 	flex-wrap: wrap;
 	color: $section_text_color;
 	align-items: flex-start;
+	z-index: 10;
 }
 
 header h1{
@@ -122,6 +128,7 @@ header h1{
 	margin-bottom: $margin * 2;
 	text-align: center;
 	text-decoration: none;
+	box-shadow: $shadow;
 }
 
 #post_page #page_subheading{
@@ -237,6 +244,10 @@ header h1{
 		padding: $margin * 4;
 		background: $section_background;
 		text-shadow: $text_shadow;
+	}
+	a{
+		color: $section_text_color;
+		font-size: 3rem;
 	}
 }
 
