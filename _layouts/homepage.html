@@ -30,9 +30,6 @@
         <source src="/images/sample-mp4-file.mp4" type="video/mp4">
       </video>
     </header>
-    <aside class='movable'>
-      {{ page.aside | textilize }}
-    </aside>
     <main class='movable'>
       <section id="posts">
         {% for post in site.posts %}
@@ -48,6 +45,9 @@
         {% endfor %}
       </section>
     </main>
+    <aside class='movable'>
+      {{ page.aside | textilize }}
+    </aside>
     <img id='philly' src="/images/pa.svg">
     <script type="text/javascript" src="/js/main.js"></script>
   </body>

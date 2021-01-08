@@ -68,3 +68,143 @@ aside{
   background-color: #666;
   box-shadow: none;
 }
+
+@media(max-width: 1100px){
+  html{
+    font-size: 20px;
+  }
+
+  header:before,
+  header:after{
+    display: none;
+  }
+
+  #posts{
+    margin-top: $margin * 2;
+    width: 100%;
+    margin-left: 0;
+    background-color: transparent;
+  }
+  .post{
+    background-color: $section_background;
+    margin-bottom: $margin;
+    border-radius: $margin;
+  }
+
+  .about_author, .how_we_met{
+    height: auto;
+  }
+
+  #homepage header,
+  #wilmer,
+  aside{
+    position: relative;
+    left: auto;
+    right: auto;
+    top: auto;
+    bottom: auto;
+    flex-wrap: wrap;
+  }
+
+  #audio{
+    justify-content: space-between;
+    margin-bottom: $margin;
+    box-sizing: border-box;
+  }
+
+  #wilmer{
+    height: auto;
+    margin-bottom: $margin * 2;
+  }
+
+  aside{
+    margin-top: $margin * 2;
+    height: auto;
+  }
+
+  header h1,
+  #header_sub_info,
+  #wilmer,
+  aside,
+  #home_link,
+  #post_page #page_subheading{
+    width: 100%;
+  }
+
+  #home_link,
+  #post_page #page_subheading{
+    margin-bottom: $margin;
+  }
+
+  #content p{
+    padding: 2rem;
+  }
+}
+
+@media(max-width: 767px){
+  body{
+    margin: $margin/2;
+  }
+
+  header h1{
+    font-size: 1rem;
+    padding-bottom: $margin;
+  }
+  #home_link,
+  #post_page #page_subheading,
+  header h1{
+    font-size: 1rem;
+    margin-bottom: $margin;
+    margin-top: 0;
+  }
+
+  #post_page #content,
+  #header_sub_info,
+  #audio{
+    margin-top: 0;
+  }
+
+  #audio{
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .play_button{
+    margin-bottom: $margin;
+  }
+
+  #content p,
+  #audio_info{
+    font-size: 1rem;
+    padding: 1rem;
+  }
+
+  #posts{
+    margin-top: 0;
+  }
+  .email{
+    word-break: break-all;
+  }
+  .name{
+    text-align: center;
+  }
+  .post_title{
+    width: auto;
+    margin: 0 auto;
+  }
+  .about_author{
+    padding: $margin 0;
+    text-align: center;
+
+  }
+  .name, .email,
+  .about_author, .how_we_met{
+    width: 100%;
+    border: none; 
+    margin: 0;
+  }
+
+  #content img{
+    height: auto;
+  }
+}
