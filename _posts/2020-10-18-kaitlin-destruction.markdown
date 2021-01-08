@@ -20,7 +20,7 @@ The stoop materials were donated to my project partially out of the benevolence 
 
 For the purpose of my project, the stoops were reconstructed with the hands, knowledge, tools, and materials of a bricklayers union in northeast Philadelphia. This labor was also volunteered to raise awareness about the devaluation of the masonry industry, as historic trades and material legacies  get replaced by  cheaper deskilled fabrication, quick-up plastic sheetings, disposable construction. As one bricklayer rebuilt a stoop for the piece, he remarked that his union had probably built this stoop in its initial iteration, and here they were, at it again, a lineage of tradespeople engaged in its reincarnation.
 
-Darkness! Destruction!
+*Darkness! Destruction!*
 
 I feel the cold surface of the marble against my back and am reminded of my teenage years, the stoop-sitting, shit-talking, and furtive cigarette smoking we engaged in after school until it was time to scatter and return to our own homes.  
 
@@ -28,7 +28,7 @@ These stoops no longer have homes. Their site is their current and temporary hom
 
 The park’s history is just as motleyed. One of five public squares originally planned by William Penn in 1682, the park has acted as pasture for grazing animals, a public burial ground for Spanish Flu victims, a potter’s field and ritual site for African slaves and free blacks (such that it became known as “Congo Square”), and from the 1800s onward, a site of various “improvements”—to traffic, landscaping, and finally, urban renewal, leading to  its current pristine form today. 
 
-Not art. Destruction!
+*Not art. Destruction!*
 
 The project is funded and supported by Philadelphia Mural Arts and a number of other donors and organizations, and is situated on National Park Service land. As such, certain conceptual concessions were made, certain tweaks to make the installation more “palatable” to a wider public and the powers that be. Nothing drastic, in the grand scheme of how red tape shapes what goes into our commons, but...something. 
 
@@ -40,12 +40,12 @@ It’s only in face-to-face conversations that I’ve had, and to a lesser exten
 
 The most meaningful response to the piece, for me, took place during one of my lurkings: an encounter with an older, Eastern European woman, one of the few to offer a negative critique of the work. The voice that bellowed, 
 
-*Destruction!*
-
-*Darkness! Destruction!*
-
+*Destruction!*  
+<br>
+*Darkness! Destruction!*  
+<br>
 *Not art. Destruction!*
-
+	
 as she made her way down the pass, intermittently stopping to wave her cane and tap on the stoops. 
 
 I first took her for a vernacular revolutionary type who might perhaps go on to tell me about how God punishes gays or some such. But she was, in fact, pontificating specifically to and about the stoops. Most averted their eyes as she passed. I greeted her. Her demeanor shifted into storytelling mode as she began her critique. 
@@ -67,10 +67,10 @@ The stoops would come down, after an unsuccessful petition for them to stay, vet
 Making art in Philadelphia: a sacred task of putting out portals in which neglected ghosts may do their bidding. 
 
 
-**This Stillness is not Still**
-						
-by Lamont Steptoe, from Meditations in Congo Square, 2008
-
+**This Stillness is not Still**  
+<br>
+by Lamont Steptoe, from *Meditations in Congo Square*, 2008  
+<br>
 This silence is no silence!
 Rather it is a cacophony of whispers
 A speech of moans
