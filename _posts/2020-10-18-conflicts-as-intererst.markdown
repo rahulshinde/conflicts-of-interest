@@ -12,3 +12,75 @@ how_we_met: Zan and our mutual friend Chelsea used to have these gatherings call
 email: gee@email.com
 
 ---
+
+<img src="/zan/image1.jpg">
+
+<img src="/zan/image2.png">
+
+<img src="/zan/image3.png">
+
+<img src="/zan/image4.png">
+
+<img src="/zan/image6.png">
+
+<img src="/zan/image7.png">
+
+<img src="/zan/image8.png">
+
+**SKILLMAN**  
+<br>
+our first house was a chicken coop  
+a tarpaper shack with no insulation  
+there was no other place to live
+<br>  
+across the pasture grandma  
+decorates the outhouse  
+with fashion catalogs
+
+**PHILADELPHIA**  
+<br>
+the city sprouts between rivers  
+geometric  
+like fungus after rain  
+<br>
+I stroll the streets among strangers  
+buildings  
+high and low  
+<br>  
+I hide my soul  
+because my shadow is automatic
+
+**LIKE A MONADNOCK**  
+<br>
+a man stands alone  
+ambles, relocates  
+I am him, he is me  
+a grain of salt shy  
+from dissolve  
+like a monadnock
+
+**MANNEQUINS**  
+<br>
+in a storefront  
+of the famous or well-known strip  
+stands a woman  
+two, to bring back your attention  
+mannequin  
+mannequin  
+<br>
+mannequins  
+
+**SILHOUETTE**  
+<br>
+to overcome the problem  
+of the moon’s radiance  
+my silhouette  
+<br>
+I move, it moves  
+I turn, it turns  
+I stop, it stops  
+I dance, we dance  
+<br>
+then, from a hidden corner of my body  
+an unknown figure submits  
+and I detach  
