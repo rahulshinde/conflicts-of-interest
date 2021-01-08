@@ -18,6 +18,9 @@ html{
   font-size: 1.25vw;
 }
 
+::-moz-selection { background: rgba(255,0,0,0.99);}
+::selection { background: rgba(255,0,0,0.99);}
+
 body{
   font-family: 'RSS DejaVu Mono', sans-serif;
   font-weight: 400;

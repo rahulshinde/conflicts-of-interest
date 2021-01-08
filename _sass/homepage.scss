@@ -2,7 +2,7 @@
 
 @media (hover: hover){
 	.play_button:hover,
-	.post_title:hover,
+	a.post_title:hover,
 	#home_link:hover{
 		background: #ff0;
 		box-shadow: $shadow;
@@ -301,7 +301,7 @@ header h1{
 	box-shadow: $shadow;
 }
 
-.post_title:after{
+a.post_title:after{
 	content: '↗';
 }
 
