@@ -301,6 +301,8 @@ header h1{
 	background-color: $info_background;
   	color: $text_gray;
   	box-shadow: inset 0px 2px 5px rgba(0,0,0,0.5);
+  	background-image: url(/images/texture.svg);
+    background-size: 8rem;
 }
 
 body#post{
