@@ -17,4 +17,4 @@ $title_text: 5rem;
 $smallest_text: 0.75rem;
 
 $margin: 1rem;
-$aside_height: 35vh;
+$aside_height: calc(35vh - #{$margin * 2});

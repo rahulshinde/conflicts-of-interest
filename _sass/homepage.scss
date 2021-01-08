@@ -161,8 +161,8 @@ header h1{
 #wilmer{
 	position: fixed;
   	width: calc(30% - #{$margin});
-  	height: calc(100vh - #{$aside_height} - 20rem);
-  	bottom: calc(#{$aside_height} + #{$margin * 3});
+  	height: calc(100vh - #{$aside_height} - 24rem);
+  	bottom: calc(#{$aside_height} + #{$margin * 6});
   	background-color: #000;
   	border-radius: 50%;
   	box-sizing: border-box;

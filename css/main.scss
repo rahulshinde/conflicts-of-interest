@@ -42,10 +42,25 @@ a{
   font-size: 1rem;
 }
 
+footer{
+  position: fixed;
+  bottom: $margin;
+  left: $margin;
+  a{
+    text-decoration: none;
+    font-size: $smallest_text;
+    background: linear-gradient(#ff0, #fff);
+    color: #000;
+    border-radius: $margin;
+    padding: 0.25rem 0.5rem;
+    box-sizing: border-box;
+  }  
+}
+
 aside{
   white-space: pre-line;
   position: fixed;
-  bottom: $margin;
+  bottom: $margin * 3;
   left: $margin;
   padding: 0 $margin;
   width: 30%;
@@ -75,6 +90,11 @@ aside{
 @media(max-width: 1100px){
   html{
     font-size: 20px;
+  }
+
+  footer{
+    position: static;
+    margin-top: 2rem;
   }
 
   header:before,
