@@ -326,8 +326,33 @@ a.post_title:after{
     background-size: 8rem;
 }
 
-body#post{
-	header{
-		
+body#post_page{
+	#audio{
+		padding: 0;
+		box-sizing: border-box;
+		background-image: none;
+		background-color: transparent;
+		justify-content: space-between;
+	}
+	.play_button{
+		width: 13vw;
+		img{
+			height: 9vw;
+			padding: 1.5rem;
+			box-sizing: border-box;
+		}
+	}
+	#audio_info{
+		text-align: center;
+		font-size: 3.5rem;
+		flex-grow: 2;
+	}
+	#wilmer{
+		position: static;
+		width: 100%;
+		border-radius: 0;
+		height: 80vh;
+		object-fit: contain;
+		display: block;
 	}
 }

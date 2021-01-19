@@ -1,0 +1,29 @@
+---
+layout: post
+
+title:  "Parte Parcell"
+author: Ella Herron
+date:   2020-11-10 11:21:04 -0400
+
+about_author: ella heron is a trans sound artist and educator from occupied quinnipiac territory. her work is inspired by soundsystem cultures, mycorrhizal networks, tektology, and failure. ella wants chestnut trees back on chestnut street, and a world without work.
+
+how_we_met: I met Ella this year, unexpectedly, in Connecticut. The first movie we watched together was Titanic, which neither of us had seen before, and we fell asleep. Most recently, we watched the first two installments of Kieślowski’s Dekalog and also fell asleep, but only during the second film.
+
+email: heronsound95@gmail.com
+
+---
+
+<div id='audio'>
+  <button id="play" class="play_button">
+    <img src="/images/play.svg">
+  </button>
+  <button id="pause" class="play_button selected">
+    <img  src="/images/pause.svg">
+  </button>
+  <div id="audio_info">
+    ella_heron-parte_parcell.mp3
+  </div>
+  <audio id='audio_player' loop>
+    <source src="/music/ella_heron-parte_parcell.mp3" type="audio/mpeg">
+  </audio>
+</div>

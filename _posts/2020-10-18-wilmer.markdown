@@ -1,0 +1,18 @@
+---
+layout: post
+
+title:  "Power Nap"
+author: Wilmer Wilson IV
+date:   2020-08-18 11:21:04 -0400
+
+about_author: ✅ art, mostly visionary; sometimes i moonlight as a scholar<br>✅ i have never taken a properly focused photograph in my entire life<br>✅ orthodoxy is a luxury we cannot afford
+
+how_we_met: The last thing I texted Wilmer was a video of me skateboarding, badly, in an empty parking lot. The last thing Wilmer texted me was about puzzles, which we did a lot of collaboratively last winter. We’ve also collaborated on book projects, art, partnership, cooking, foraging, and so on. Wilmer’s one of my oldest friends.
+
+email: wwilsoniv@gmail.com
+
+---
+
+<video id='wilmer' autoplay loop muted playsinline>
+  <source src="/images/power_nap-final_attempt.mp4" type="video/mp4">
+</video>

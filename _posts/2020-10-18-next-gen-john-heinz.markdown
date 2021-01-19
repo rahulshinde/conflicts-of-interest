@@ -3,9 +3,9 @@ layout: post
 
 title:  "Next Gen John Heinz"
 author: Bailey A. Sheehan
-date:   2020-10-18 11:21:04 -0400
+date:   2020-12-18 11:21:04 -0400
 
-about_author: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+about_author: Bailey’s art practice focuses on developing new publications that inhabit a speculative voice and address what he has termed as “responsible digital dispersion.” Art criticism, and cultural commentary are foremost productive. They do not represent art, or culture so much as they participate in these processes and help constitute them— the contemporary writer must behave accordingly.
 
 how_we_met: I heard Bailey’s name for years before the two of us actually met, through Rahul. Over the summer I learned what a good cook Bailey is when I went over to Bailey and Rahul’s house for a few dinners, one with memorable biscuits and gravy. There were a few good weeks in there when we all watched Drag Race together. Bailey’s a Drag Race aficionado.
 
