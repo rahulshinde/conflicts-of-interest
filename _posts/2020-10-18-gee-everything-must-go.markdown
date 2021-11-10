@@ -13,7 +13,6 @@ email: geewesley@gmail.com
 
 ---
 
-
 When the COVID-19 pandemic arrived in the United States, millions of Americans sheltered in place as businesses, retailers, service providers, and manufacturers closed their doors temporarily or indefinitely. In the field of contemporary art, the economic shutdown triggered a wave of institutional closures, cancellations, and postponements. Art fairs were called off, biennials rescheduled; museums and galleries shut their doors. The art world was closed for business. With the suspension of ticket sales, benefits, and rental income, museums and contemporary art institutions were forced to reckon with the immediate elimination of earned income streams and the steep budget shortfalls that would quickly follow.
 
 In tallying this economic fallout, many begged the question: how exactly could major institutions recoup the losses brought about by the pandemic? Would museums sell off their Warhols or Richters to stave off economic disaster? Would they dip into the coffers of ample endowments, which at museums like MoMA, the Guggenheim, and the Met, accounted for billions? Perhaps they would scale back their massive expansion efforts, such as LACMA’s $750 million renovation? What would major institutions sacrifice to ensure the survival of our field? Between their collections, property, and endowments, what would have to go?
