@@ -6,8 +6,8 @@ layout: homepage
 title: Conflicts of Interest
 subheading: Personal directory of Heather Holmes
 aside: | 
-  Initially written September 2020 / COI / HH
-  Revised Spring 2021
+  Written: September 2020 / COI / HH
+  Revised: Spring 2021
   
   Everyone I know who makes money, joy, or community—generally a combination thereof—within the imperfectly bracketed space of the “art world” has, in the past year, reevaluated their relationship to the category of art and the practice of artmaking. Art showed its face in 2020: it could definitely do something, but it couldn’t stem the tide of the ongoing ravages of climate change; couldn’t get politicians into or out of office, offer up alternatives to electoral politics, or make desperately needed socialist/communist change possible; couldn’t resurrect those murdered by racism and racists or abolish policing and prisons; couldn’t halt a global pandemic or the social and economic devastation it’s wrought.
 
