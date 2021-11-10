@@ -264,6 +264,9 @@ header h1{
 	padding: $margin;
 	box-sizing: border-box;
 	border-bottom: $stroke_width dotted;
+	a{
+		color: $section_text_color;
+	}
 }
 
 .name,
