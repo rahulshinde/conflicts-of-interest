@@ -14,8 +14,11 @@ function init(){
       document.body.classList.add('pa');
     }
   })
-  .catch((data, status) => {
+  .catch((data, status) => { 
+    document.body.classList.add('pa');
+
   })
+
 
   document.querySelectorAll('.play_button').forEach((e) => {
     e.addEventListener('click', toggleState);

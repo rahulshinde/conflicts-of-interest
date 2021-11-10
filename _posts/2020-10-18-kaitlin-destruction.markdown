@@ -2,10 +2,10 @@
 layout: post
 
 title:  "Destruction!"
-author: Kaitlin
+author: Kaitlin Pomerantz
 date:   2020-10-18 11:21:04 -0400
 
-about_author: 
+about_author: Kaitlin Pomerantz (she, they) is an interdisciplinary artist, writer and educator in Philadelphia (Lenapehoking)
 
 how_we_met: The last time I hung out with Kaitlin, we shared mango licorice outside her house, which is down the street from mine in Germantown. Her dog Maybe was there, and we were both stressed but I felt a definitive lift being around her.
 

@@ -5,7 +5,7 @@ title:  "Everything Must Go"
 author: Gee Wesley
 date:   2020-11-08 11:21:04 -0400
 
-about_author: 
+about_author: Gee Wesley is an arts organizer born in Monrovia, Liberia, and based in New York. Wesley has held previous roles as Program Director at Recess (Brooklyn, NY), Curatorial Fellow at SculptureCenter (Queens, NY), Curatorial Fellow at the Institute of Contemporary Art (Philadelphia, PA), and adjunct faculty in the Curatorial Practice MFA program at the Maryland Institute College of Art (Baltimore, MD). He is a co-founder of Ulises, a bookshop and curatorial platform based in Philadelphia. Wesley is an M.A. candidate at the Center for Curatorial Studies, Bard College.
 
 how_we_met: I remember when I first moved to New York, I used to run into Gee all the time. At first it was surprising to me, but then it made sense – Gee’s kindness makes you feel at home wherever you are. Gee is razor-sharp and someone who makes me feel excited about the possibilities of publication as form.
 

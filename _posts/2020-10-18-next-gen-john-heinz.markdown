@@ -5,7 +5,7 @@ title:  "Next Gen John Heinz"
 author: Bailey A. Sheehan
 date:   2020-12-18 11:21:04 -0400
 
-about_author: Bailey’s art practice focuses on developing new publications that inhabit a speculative voice and address what he has termed as “responsible digital dispersion.” Art criticism, and cultural commentary are foremost productive. They do not represent art, or culture so much as they participate in these processes and help constitute them— the contemporary writer must behave accordingly.
+about_author: Bailey Sheehan is a writer / former artist who lives in South Philadelphia. You can access his projects @ symbolismforadvanced.com and int-squabs.net. His email address is baileyasheehan@protonmail.com. Bailey co-operates a newsletter with Rahul Shinde, you can sign up for the newsletter at either site, or at thatbushisnotburning.net. You can access some fan fiction written by Sheehan through visiting his profile on [fanfiction.net](https://www.fanfiction.net/~dedueluvrxdimitri).
 
 how_we_met: I heard Bailey’s name for years before the two of us actually met, through Rahul. Over the summer I learned what a good cook Bailey is when I went over to Bailey and Rahul’s house for a few dinners, one with memorable biscuits and gravy. There were a few good weeks in there when we all watched Drag Race together. Bailey’s a Drag Race aficionado.
 
