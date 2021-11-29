@@ -5,7 +5,7 @@ function init(){
   fetch('https://extreme-ip-lookup.com/json/')
   .then( res => res.json())
   .then(response => {
-    if (response.region != 'Pennsylvania' && response.region != 'Philadelphia'){
+    if (response.region != 'Pennsylvania' || response.region != 'Philadelphia'){
       document.querySelectorAll('.movable').forEach((e) => {
         e.remove();
       });
