@@ -2,7 +2,7 @@ var audio = document.getElementById('audio_player');
 document.addEventListener('DOMContentLoaded', init);
 
 function init(){
-  fetch('https://extreme-ip-lookup.com/json/key=i4Y52DnPYebLbdQPMhVA')
+  fetch('https://extreme-ip-lookup.com/json/?callback=getIP&key=i4Y52DnPYebLbdQPMhVA')
   .then( res => res.json())
   .then(response => {
     console.log(response.region);
