@@ -2,11 +2,11 @@ var audio = document.getElementById('audio_player');
 document.addEventListener('DOMContentLoaded', init);
 
 function init(){
-  fetch('https://extreme-ip-lookup.com/json/')
+  fetch('https://extreme-ip-lookup.com/json/key=i4Y52DnPYebLbdQPMhVA')
   .then( res => res.json())
   .then(response => {
     console.log(response.region);
-    if (response.region != 'Pennsylvania' && response.region != 'New Jersey' && response.region != 'Philadelphia'){
+    if (response.region != 'Pennsylvania' && response.region != 'Philadelphia'){
       document.querySelectorAll('.movable').forEach((e) => {
         e.remove();
       });
