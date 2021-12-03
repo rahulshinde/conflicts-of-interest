@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Parte Parcell"
-author: Ella Herron
+author: Ella Heron
 date:   2020-11-10 11:21:04 -0400
 
 about_author: ella heron is a trans sound artist and educator from occupied quinnipiac territory. her work is inspired by soundsystem cultures, mycorrhizal networks, tektology, and failure. ella wants chestnut trees back on chestnut street, and a world without work.
